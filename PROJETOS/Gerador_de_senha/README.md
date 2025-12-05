@@ -6,7 +6,7 @@ Projeto em HTML, CSS e JavaScript que simula uma tela de cadastro integrada a um
 
 ## 📸 Preview do Projeto
 
-![Tela Inicial](./img_readme/tela_inicial.png)
+![Tela Inicial](./img_readme/tela.png)
 
 
 
