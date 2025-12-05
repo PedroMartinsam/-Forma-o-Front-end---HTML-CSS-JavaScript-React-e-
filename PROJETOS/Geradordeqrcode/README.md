@@ -20,9 +20,10 @@ Projeto de um **Gerador de QR Code** desenvolvido com **HTML, CSS e JavaScript**
 ### 🔹 Tela Inicial
 ![Tela Inicial](./img_readme/antes.png)
 
+
+
 ### 🔹 QR Code Gerado
 ![QR Code Gerado](./img_readme/depoiss.png)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
