@@ -1,4 +1,4 @@
-# 🐞 Debug em JavaScript – Tratamento de Erros e Boas Práticas
+#  Debug em JavaScript – Tratamento de Erros e Boas Práticas
 
 Este projeto foi desenvolvido com foco no aprendizado de **depuração (debug)** em JavaScript, abordando desde o uso do `"use strict"` até técnicas de **tratamento de erros, exceções, validação de dados, try/catch, finally e assertions**.
 
