@@ -6,10 +6,10 @@ Projeto front-end inspirado na página oficial da Apple, desenvolvido com foco e
 
 ## 🖼️ Demonstração do Projeto
 
-### Tela Inicial
+
 ![Tela Inicial](./img_readme/telainicial.png)
 
-### Troca de Cor do Aparelho
+
 ![Troca de Cor](./img_readme/corcelular.png)
 
 ---
