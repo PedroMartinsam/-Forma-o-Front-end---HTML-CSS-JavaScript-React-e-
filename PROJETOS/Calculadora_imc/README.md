@@ -7,12 +7,12 @@ Projeto desenvolvido para calcular o **IMC (Índice de Massa Corporal)** de form
 ## 📸 Demonstração
 
 ### 🟢 Antes de inserir os dados
-![Antes de calcular](./img/antes.png)
+![Antes de calcular](./img_readme/antes.png)
 
 ### 🔵 Depois de inserir os dados
-![Depois de calcular](./img/depois.png)
+![Depois de calcular](./img_readme/depois.png)
 
-> 📌 Substitua os nomes das imagens caso utilize outros nomes.
+
 
 ---
 
